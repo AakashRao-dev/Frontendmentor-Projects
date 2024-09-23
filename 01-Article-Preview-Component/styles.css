@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+:root {
+  --dark-gray-blue: hsl(217, 19%, 35%);
+  --dark-blue: hsl(214, 17%, 51%);
+  --grayish-blue: hsl(212, 23%, 69%);
+  --light-Blue: hsl(210, 46%, 95%);
+
+  --font-size: 13px;
+  --font-family: 'Manrope';
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+}
